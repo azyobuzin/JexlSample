@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, JexlSampleActivity!</string>
+    <string name="app_name">JexlSample</string>
+    <string name="source_data">ソース</string>
+    <string name="numbers">数値</string>
+    <string name="alphabets">アルファベット</string>
+    <string name="query">クエリ</string>
+    <string name="run">実行</string>
+    <string name="result">実行結果</string>
+    <string name="result_is_not_boolean">戻り値がBooleanでないです。</string>
+
+</resources>
